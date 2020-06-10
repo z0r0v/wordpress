@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a48f4b0f-eea0-41e6-8c67-5b278b1124d0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/enspire/style-extend.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/enspire/src/style-extend.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/enspire/content-featured.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/enspire/content-featured.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/enspire/style-extend.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/enspire/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/enspire/style.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,8 +35,14 @@
   </component>
   <component name="ProjectId" id="1d7lRdzssBGApSGcxAFQGR1O84o" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\wordpress\wp-content\themes\enspire\src" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -56,7 +66,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1591784005681</updated>
-      <workItem from="1591784008790" duration="1719000" />
+      <workItem from="1591784008790" duration="3298000" />
     </task>
     <servers />
   </component>
